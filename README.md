@@ -14,8 +14,10 @@
 
 - React
 - Typescript
+- Stitches - CSS in Js
+
 - TSUP
 - Monorepo
 - TurboRepo
-- Stitches - CSS in Js
+- Polished
 - Storybook
